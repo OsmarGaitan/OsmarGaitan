@@ -19,13 +19,13 @@
 - 🔭 I’m currently working in SIRTEC :grin:
 - 🌱 I’m currently learning Design patterns .
 - 👯 I’m learning new programming languages:wink:
-- 🥅 2020 Goals: Strengthen my experiency in my learn of programming 
+- 🥅 2025 Goals: Strengthen my experiency in my learn of programming 
 - 🧗 I try to: Go beyond and  push the my bounds
 - ⚡ Fun fact: I'm a very sociable person :raised_hands:
 
 <br>
 
-### Languages and Tools what have i learned: 
+### Programming Languages and Tools I Have Learned: 
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
